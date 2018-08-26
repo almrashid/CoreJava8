@@ -21,6 +21,7 @@ public class House {
     public void showHouseDim(){
 
         System.out.println("10 by 10");
+        System.out.println("update the code");
     }
 
 }
