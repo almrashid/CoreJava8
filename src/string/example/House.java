@@ -22,6 +22,10 @@ public class House {
 
         System.out.println("10 by 10");
         System.out.println("update the code");
+        if(10>5)
+            System.out.println("10 is Greater :");
+        if (10<5)
+            System.out.println("5 is greater :");
     }
 
 }
